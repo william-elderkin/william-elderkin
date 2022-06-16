@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @william-elderkin
 - 👀 I’m interested in software developement, human/hardware interaction, the outdoors...
-- 🌱 I’m currently learning web developement following the Odin Project ciriculum.
+- 🌱 I’m currently practicing web developement following the Odin Project ciriculum.
 - 💞️ I’m looking to collaborate on anything web related that I can use my current skills on.
 - 📫 How to reach me ...william_elderkin@protonmail.com
 
